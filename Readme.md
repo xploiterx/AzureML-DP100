@@ -8,10 +8,12 @@ Esta especialización está destinada a científicos de datos con conocimientos 
 
 Aprenderán a administrar los recursos de Azure para el aprendizaje automático; ejecutar experimentos y entrenar modelos; implementar y poner en funcionamiento soluciones de aprendizaje automático; e implementar el aprendizaje automático responsable. ​
 
-​
+También aprenderán a usar Azure Databricks para explorar, preparar y modelar datos; e integrar los procesos de aprendizaje automático de Azure Databricks con Azure Machine Learning. ​
 
-También aprenderán a usar Azure Databricks para explorar, preparar y modelar datos; e integre los procesos de aprendizaje automático de Databricks con Azure Machine Learning. ​
+Este programa consta de 4 cursos para ayudarlo a prepararse para tomar el Examen DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. El examen de certificación es una oportunidad para demostrar el conocimiento y la experiencia en el manejo de soluciones de aprendizaje automático a escala de la nube mediante Azure Machine Learning.​
 
 ​
 
 Este programa consta de 5 cursos para ayudarlo a prepararse para tomar el Examen DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. El examen de certificación es una oportunidad para demostrar el conocimiento y la experiencia en el manejo de soluciones de aprendizaje automático a escala de la nube mediante Azure Machine Learning. ​
+
+Esta especialización le enseña a aprovechar su conocimiento existente de Python y el aprendizaje automático para administrar la ingesta y preparación de datos, el entrenamiento y la implementación de modelos y el monitoreo de soluciones de aprendizaje automático en Microsoft Azure.
