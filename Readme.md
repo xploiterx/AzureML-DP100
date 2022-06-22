@@ -1,6 +1,6 @@
 ![MMLSpark](https://mmlspark.azureedge.net/icons/mmlspark.svg)
 
-# Microsoft Machine Learning
+# Sandbox Microsoft Machine Learning
 
 [![Build Status](https://msdata.visualstudio.com/A365/_apis/build/status/Azure.mmlspark?branchName=master)](https://msdata.visualstudio.com/A365/_build/latest?definitionId=15131&branchName=master) [![codecov](https://codecov.io/gh/Azure/mmlspark/branch/master/graph/badge.svg)](https://codecov.io/gh/Azure/mmlspark) [![Gitter](https://badges.gitter.im/Microsoft/MMLSpark.svg)](https://gitter.im/Microsoft/MMLSpark?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
@@ -19,11 +19,13 @@ Aprenderán a administrar los recursos de Azure para el aprendizaje automático;
 
 También aprenderán a usar Azure Databricks para explorar, preparar y modelar datos; e integrar los procesos de aprendizaje automático de Azure Databricks con Azure Machine Learning. ​
 
-Este programa consta de 4 cursos para ayudarlo a prepararse para tomar el Examen DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. El examen de certificación es una oportunidad para demostrar el conocimiento y la experiencia en el manejo de soluciones de aprendizaje automático a escala de la nube mediante Azure Machine Learning.​
-
-​
-
-Este programa consta de 5 cursos para ayudarlo a prepararse para tomar el Examen DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. El examen de certificación es una oportunidad para demostrar el conocimiento y la experiencia en el manejo de soluciones de aprendizaje automático a escala de la nube mediante Azure Machine Learning. ​
+Este programa consta de 4 rutas de aprendizaje para ayudarte y prepararte para tomar el Examen DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. El examen de certificación es una oportunidad para demostrar el conocimiento y la experiencia en el manejo de soluciones de aprendizaje automático a escala de la nube mediante Azure Machine Learning. ​
 
 Esta especialización le enseña a aprovechar su conocimiento existente de Python y el aprendizaje automático para administrar la ingesta y preparación de datos, el entrenamiento y la implementación de modelos y el monitoreo de soluciones de aprendizaje automático en Microsoft Azure.
+
+Cada ruta le enseña los conceptos y habilidades que se miden en el examen. Al final de este programa, estará listo para tomar el DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. Entrenamiento e implementación de modelos, y monitoreo de soluciones de aprendizaje automático en Microsoft Azure. ​
+
+Los alumnos participarán en ejercicios interactivos a lo largo de este programa que ofrece oportunidades para practicar e implementar lo que están aprendiendo. Trabajarán directamente en Azure Portal y usarán Xploiter Learn Sandbox. Este es un entorno que permite a los alumnos explorar Microsoft Azure y ponerse manos a la obra con los recursos y servicios de Microsoft Azure en vivo. ​
+
+Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajará en un entorno temporal de Azure llamado Sandbox. Lo bueno de esto es que trabajará con tecnología real pero en un entorno controlado, lo que le permitirá aplicar lo que aprenda a su propio ritmo. No Necesitarás una cuenta de Microsoft ya que Xploiter Azure Sandbox permite acceso de tiempo fijo a una suscripción en la nube. Los alumnos pueden explorar, crear y administrar recursos de manera segura sin temor a incurrir en costos adicionales​
 
