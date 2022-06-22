@@ -9,7 +9,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0--rc2-blue)](https://github.com/Azure/mmlspark/releases) [![Snapshot Version](https://mmlspark.blob.core.windows.net/icons/badges/master_version3.svg)](#sbt) 
 ## Programa especializado: Microsoft Azure Data Scientist Associate - DP-100 Test Prep​
 
-Comienza tu carrera en ciencia de los datos. Apliqca ciencia de datos y el aprendizaje automático para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure ML.
+Comienza tu carrera en ciencia de los datos. Aplica ciencia de datos y el aprendizaje automático para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure ML.
 
 ## Acerca de este Programa Especializado​
 
@@ -48,7 +48,8 @@ Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajará en
 - Aprox. 40 horas para completar
 
 ## Azure Sandboxes
-Un programa especializado de Xploiter es un conjunto de cursos Azure Learning que te ayudan a dominar una aptitud con practicas reales en entornos Azure relaes. Para comenzar, inscríbete en el programa especializado directamente o échale un vistazo a sus cursos y elige uno con el que te gustaría comenzar. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso: puedes pausar tu aprendizaje o cancelar tu suscripción en cualquier momento. Visita el panel principal del estudiante para realizar un seguimiento de tus inscripciones a cursos y tu progreso.
+
+Es un programa especializado de Xploiter en combinación Microsoft Learning que te ayuda a dominar una aptitud con practicas reales en entornos Azure relaes (Sandboxes). Para comenzar, inscríbete en el programa especializado directamente o échale un vistazo a sus cursos y elige uno con el que te gustaría comenzar. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso: puedes pausar tu aprendizaje o cancelar tu suscripción en cualquier momento. Visita el panel principal del estudiante para realizar un seguimiento de tus inscripciones a cursos y tu progreso.
 
 Proyecto práctico
 Cada programa especializado incluye un proyecto práctico. Necesitarás completar correctamente el proyecto para completar el programa especializado y obtener tu certificado. Si el programa especializado incluye un curso separado para el proyecto práctico, necesitarás completar cada uno de los otros cursos antes de poder comenzarlo.
