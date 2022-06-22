@@ -23,11 +23,13 @@ Este programa consta de 4 rutas de aprendizaje para ayudarte y prepararte para t
 
 Esta especialización le enseña a aprovechar su conocimiento existente de Python y el aprendizaje automático para administrar la ingesta y preparación de datos, el entrenamiento y la implementación de modelos y el monitoreo de soluciones de aprendizaje automático en Microsoft Azure.
 
-Cada ruta le enseña los conceptos y habilidades que se miden en el examen. Al final de este programa, estará listo para tomar el DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. Entrenamiento e implementación de modelos, y monitoreo de soluciones de aprendizaje automático en Microsoft Azure. ​
+Cada ruta te enseña los conceptos y habilidades que se miden en el examen. Al final de este programa, estarás listo para tomar el DP-100: Diseño e implementación de una solución de ciencia de datos en Azure. Entrenamiento e implementación de modelos, y monitoreo de soluciones de aprendizaje automático en Microsoft Azure. ​
 
-Los alumnos participarán en ejercicios interactivos a lo largo de este programa que ofrece oportunidades para practicar e implementar lo que están aprendiendo. Trabajarán directamente en Azure Portal y usarán Xploiter Learn Sandbox. Este es un entorno que permite a los alumnos explorar Microsoft Azure y ponerse manos a la obra con los recursos y servicios de Microsoft Azure en vivo. ​
+Los alumnos participarán en ejercicios interactivos a lo largo de este programa que ofrece oportunidades para practicar e implementar lo que están aprendiendo. Trabajarán directamente en Azure Portal y usarán Azure Sandbox. Este es un entorno que permite a los alumnos explorar Microsoft Azure y ponerse manos a la obra con los recursos y servicios de Microsoft Azure en vivo. ​
 
-Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajará en un entorno temporal de Azure llamado Sandbox. Lo bueno de esto es que trabajará con tecnología real pero en un entorno controlado, lo que le permitirá aplicar lo que aprenda a su propio ritmo. No Necesitarás una cuenta de Microsoft ya que Xploiter Azure Sandbox permite acceso de tiempo fijo a una suscripción en la nube. Los alumnos pueden explorar, crear y administrar recursos de manera segura sin temor a incurrir en costos adicionales​
+Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajarás en un entorno temporal de Azure llamado Sandbox. Lo bueno de esto es que trabajarás con tecnología real pero en un entorno controlado, lo que le permitirá aplicar lo que aprendas a tu propio ritmo. No Necesitarás una cuenta de Microsoft ya que Xploiter te proveerá una cuenta Azure Sandbox permitiendo el acceso de tiempo fijo a una suscripción en la nube. Los alumnos pueden explorar, crear y administrar recursos de manera segura sin temor a incurrir en costos adicionales​.
+
+## Beneficios
 
 - Fechas límite flexibles​
 
@@ -41,19 +43,19 @@ Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajará en
 
 - Programa especializado: Microsoft Azure Data Scientist Associate - DP-100 Test Prep​
 
-- Nivel intermedio​
-
 - El conocimiento de los conceptos matemáticos básicos es importante y también es beneficioso cierta experiencia con Python.​
 
 - Aprox. 40 horas para completar
 
 ## Azure Sandboxes
 
-Es un programa especializado de Xploiter en combinación Microsoft Learning que te ayuda a dominar una aptitud con practicas reales en entornos Azure relaes (Sandboxes). Para comenzar, inscríbete en el programa especializado directamente o échale un vistazo a sus cursos y elige uno con el que te gustaría comenzar. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso: puedes pausar tu aprendizaje o cancelar tu suscripción en cualquier momento. Visita el panel principal del estudiante para realizar un seguimiento de tus inscripciones a cursos y tu progreso.
+Es un programa especializado de Xploiter en combinación Microsoft Learning + Azure Sandbox que te ayuda a dominar una aptitud con practicas reales en entornos Azure relaes (Sandboxes). 
 
-Proyecto práctico
+Para comenzar, inscríbete en el programa especializado directamente o dale un vistazo a sus cursos y elige uno con el que te gustaría comenzar. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso: puedes pausar tu aprendizaje o cancelar tu suscripción en cualquier momento. Visita el panel principal del estudiante para realizar un seguimiento de tus inscripciones a cursos y tu progreso.
+
+## Proyecto práctico
 Cada programa especializado incluye un proyecto práctico. Necesitarás completar correctamente el proyecto para completar el programa especializado y obtener tu certificado. Si el programa especializado incluye un curso separado para el proyecto práctico, necesitarás completar cada uno de los otros cursos antes de poder comenzarlo.
 
 Obtén un certificado
-Cuando completes todos los cursos y el proyecto práctico, obtendrás un Certificado que puedes compartir con posibles empleadores y tu red profesional.
+Cuando completes todo el Learning Path los cursos junto con los laboratorios, obtendrás un Certificado que puedes compartir con posibles empleadores y tu red profesional además de poder presentar el examen: DP-100: Diseño e implementación de una solución de ciencia de datos en Azure.
 
