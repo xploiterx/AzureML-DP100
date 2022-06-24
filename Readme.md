@@ -59,3 +59,37 @@ Cada programa especializado incluye un proyecto práctico. Necesitarás completa
 Obtén un certificado
 Cuando completes todo el Learning Path los cursos junto con los laboratorios, obtendrás un Certificado que puedes compartir con posibles empleadores y tu red profesional además de poder presentar el examen: DP-100: Diseño e implementación de una solución de ciencia de datos en Azure.
 
+Actividad | Duración
+-------- | ---------
+**Microsoft Azure AI Fundamentals** | **3 horas**
+Use automated machine learning in Azure Machine Learning | 45 minuntos
+Create a Regression Model with Azure Machine Learning designer | 55 minutos
+Create a classification model with Azure Machine Learning designer | 1 hora
+Create a Clustering Model with Azure Machine Learning designer | 49 minutos
+**Build and operate machine learning solutions with Azure Machine Learning**  | **10 horas**
+Introduction to the Azure Machine Learning SDK | 1 hora
+Train a machine learning model with Azure Machine Learning | 40 minutos
+Work with Data in Azure Machine Learning | 45 minutos
+Work with Compute in Azure Machine Learning | 45 minutos
+Work with Compute in Azure Machine Learning | 45 minutos
+Deploy real-time machine learning services with Azure Machine Learning | 40 minutos
+Deploy batch inference pipelines with Azure Machine Learning | 44 minutos
+Tune hyperparameters with Azure Machine Learning | 46 minutos
+Automate machine learning model selection with Azure Machine Learning | 25 minutos
+Explore differential privacy | 38 minutos
+Explain machine learning models with Azure Machine Learning | 47 minutos
+Detect and mitigate unfairness in models with Azure Machine Learning | 45 minutos
+Monitor models with Azure Machine Learning | 39 minutos
+Monitor data drift with Azure Machine Learning | 42 minutos
+Explore security concepts in Azure Machine Learning | 36 minutos
+**Build and operate machine learning solutions with Azure Databricks** | **4 horas**
+Get started with Azure Databricks | 21 min
+Work with data in Azure Databricks | 21 min
+Prepare data for machine learning with Azure Databricks | 26 min
+Train a machine learning model with Azure Databricks | 21 min
+Use MLflow to track experiments in Azure Databricks | 21 min
+Manage machine learning models in Azure Databricks | 21 min
+Track Azure Databricks experiments in Azure Machine Learning | 24 min
+Deploy Azure Databricks models in Azure Machine Learning | 24 min
+Tune hyperparameters with Azure Databricks | 45 min
+Distributed deep learning with Horovod and Azure Databricks | 35 min
