@@ -45,19 +45,18 @@ Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajarás e
 
 - El conocimiento de los conceptos matemáticos básicos es importante y también es beneficioso cierta experiencia con Python.​
 
-- Aprox. 40 horas para completar
+- Aprox. 17 horas para completar
 
 ## Azure Sandboxes
 
 Es un programa especializado de Xploiter en combinación Microsoft Learning + Azure Sandbox que te ayuda a dominar una aptitud con practicas reales en entornos Azure relaes (Sandboxes). 
 
-Para comenzar, inscríbete en el programa especializado directamente o dale un vistazo a sus cursos y elige uno con el que te gustaría comenzar. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso: puedes pausar tu aprendizaje o cancelar tu suscripción en cualquier momento. Visita el panel principal del estudiante para realizar un seguimiento de tus inscripciones a cursos y tu progreso.
+Para comenzar, inscríbete en el programa especializado. Al suscribirte a un curso que forme parte de un programa especializado, quedarás suscrito de manera automática al programa especializado completo. Puedes completar solo un curso y pausar tu aprendizaje. Cada Sandbox tiene unos tiempos programados para acada actividad - Estos Sandbox puedes porgramarlos segun tus tiempos para completar tus actividades.
 
-## Proyecto práctico
-Cada programa especializado incluye un proyecto práctico. Necesitarás completar correctamente el proyecto para completar el programa especializado y obtener tu certificado. Si el programa especializado incluye un curso separado para el proyecto práctico, necesitarás completar cada uno de los otros cursos antes de poder comenzarlo.
+## Laboratorios
+Cada programa especializado incluye un Laboratorio. Necesitarás completar correctamente el laboratorio para completar el programa especializado y obtener tu certificado. 
 
-Obtén un certificado
-Cuando completes todo el Learning Path los cursos junto con los laboratorios, obtendrás un Certificado que puedes compartir con posibles empleadores y tu red profesional además de poder presentar el examen: DP-100: Diseño e implementación de una solución de ciencia de datos en Azure.
+Obtén un certificado cuando completes todo el Learning Path junto con los laboratorios, obtendrás un Certificado que puedes compartir con posibles empleadores y tu red profesional además de poder presentar el examen: DP-100: Diseño e implementación de una solución de ciencia de datos en Azure.
 
 Actividad | Duración
 -------- | ---------
