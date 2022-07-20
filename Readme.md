@@ -37,8 +37,6 @@ Por ejemplo, cuando aprendes a entrenar una red neuronal profunda; trabajarás e
 
 - Obtén un certificado al finalizar​
 
-- 100 % en línea
-
 - Comienza de inmediato y aprende a tu propio ritmo.​
 
 - Programa especializado: Microsoft Azure Data Scientist Associate - DP-100 Test Prep​
